@@ -1,6 +1,8 @@
 # Human Computer Interaction - Spring 2021 
 ## Car Dashboard
 
+Report page: https://hardeek100.github.io/p2HardikPoudel/
+
 Here are 5 examples of the car dashboards that I found with worst design
 
 2018 mini cooper se countryman
