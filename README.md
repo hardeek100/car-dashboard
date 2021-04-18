@@ -55,6 +55,7 @@ Some of the improvements that can be made with the current designs are:
 - make most used feature more visible such as make digital speed visible in the dashboard with the analog speedometer.
 
 Here is my sketch of the solution
+![alt text](sketch.png)
 
 
 
