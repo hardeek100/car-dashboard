@@ -2,7 +2,7 @@
 ## Car Dashboard
 
 Report page: https://hardeek100.github.io/p2HardikPoudel/
-
+Demo: https://www.youtube.com/watch?v=nyeG-WINB2w&t=13s
 Here are 5 examples of the car dashboards that I found with worst design
 
 2018 mini cooper se countryman
